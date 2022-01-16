@@ -1,16 +1,16 @@
 [package]
-name = "min_max_traits"
+name = "is_signed_trait"
 version = "0.1.0"
 authors = ["Dmitrii Demenev <demenev.dmitriy1@gmail.com>"]
 edition = "2021"
 rust-version = "1.56.1" # https://github.com/foresterre/cargo-msrv
-description = "Traits for MIN and MAX associated constants"
-documentation = "https://docs.rs/min_max_traits"
+description = "Trait for IS_SIGNED associated constant"
+documentation = "https://docs.rs/is_signed_trait"
 readme = "README.md"
-repository = "https://github.com/JohnScience/min_max_traits"
+repository = "https://github.com/JohnScience/is_signed_trait"
 license = "MIT OR Apache-2.0"
 # license-file | not needed
-keywords = ["traits", "min", "max"]
+keywords = ["traits", "signed", "unsigned"]
 categories = ["mathematics", "no-std"] # https://crates.io/category_slugs
 # workspace | not needed
 # build | not needed
